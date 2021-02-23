@@ -5,3 +5,8 @@
 ## canvas
 - [【Canvas】232-Canvas 最佳实践（性能篇）](https://cloud.tencent.com/developer/article/1471956)
 - [ canvas的性能优化 ](https://www.cnblogs.com/rubylouvre/p/3570636.html): 里面还有如何快速取整的小技巧
+
+
+## React
+- [一篇长文帮你彻底搞懂React的调度机制原理](https://zhuanlan.zhihu.com/p/347522106)
+- [react-source-code-debug](https://github.com/neroneroffy/react-source-code-debug)
