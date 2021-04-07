@@ -12,3 +12,7 @@
 ## React
 - [一篇长文帮你彻底搞懂React的调度机制原理](https://zhuanlan.zhihu.com/p/347522106)
 - [react-source-code-debug](https://github.com/neroneroffy/react-source-code-debug)
+
+
+## ES基础
+- [ES6 Class 继承与 super](https://segmentfault.com/a/1190000015565616)
