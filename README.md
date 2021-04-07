@@ -12,7 +12,7 @@
 ## React
 - [一篇长文帮你彻底搞懂React的调度机制原理](https://zhuanlan.zhihu.com/p/347522106)
 - [react-source-code-debug](https://github.com/neroneroffy/react-source-code-debug)
-
+- [A Secret parts of React New Context API](https://koba04.medium.com/a-secret-parts-of-react-new-context-api-e9506a4578aa): `Consumer`上有一个属性`unstable_observedBits`，可以监听`context`哪些值改变了，改变的，才会`render`。解决原先`Provider`，`value`一改变，`children`都会`re-render`的性能问题。
 
 ## ES基础
 - [ES6 Class 继承与 super](https://segmentfault.com/a/1190000015565616)
