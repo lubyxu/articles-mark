@@ -24,3 +24,4 @@
 
 ## 工程
 - [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/rwp9sXi4Y8Ht0UbA6z4hSg)
+- [领域驱动设计在互联网业务开发中的实践](https://tech.meituan.com/2017/12/22/ddd-in-practice.html)
